@@ -2,7 +2,7 @@
 
 <img src="https://live.staticflickr.com/65535/54375209962_826e91bf84_c.jpg" alt="thumbnail" class="center">
 
-> - [Working Video of the Application](https://youtube.com/shorts/5yf_aGao6V4) <br/>
+> - [Working Video of the Advanced Smart Dictionary & Notebook](https://youtube.com/shorts/5yf_aGao6V4) <br/>
 
 ### Working Prenciple
 > -I developed the 'Advanced Smart Dictionary &amp; Notebook' application using Android Studio with Java, Firebase, and Figma. This Android application utilizes the Cambridge Dictionary database, allowing users to access words online and listen to pronunciation examples.  
